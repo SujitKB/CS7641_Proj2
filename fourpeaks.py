@@ -7,10 +7,7 @@ from random import randint
 
 ############################### 4-Peaks Problem
 def four_peaks_input_size():
-    # TO DO:
-    # - Try different t_pct values --> Threshold Parameter
-    # - Try different decay schedules
-    # The fitness function should be as big as possible
+
     fitness_sa_arr = []
     fitness_rhc_arr = []
     fitness_ga_arr = []
